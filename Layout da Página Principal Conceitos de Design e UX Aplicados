@@ -1,0 +1,9 @@
+Conceitos de Design e UX Aplicados:
+
+Uso de uma Toolbar personalizada com o logotipo do aplicativo e um título legível.
+Cor de fundo e cor do texto do título da Toolbar definidas de acordo com a identidade visual do aplicativo.
+Ícone de menu intuitivo para abrir o NavigationView (menu lateral).
+FrameLayout para exibir o conteúdo principal da página, permitindo a fácil troca de fragmentos ou visualizações.
+NavigationView para fornecer uma navegação consistente e acessível por meio de um menu lateral.
+O layout do cabeçalho do NavigationView (nav_header.xml) pode ser personalizado para exibir informações do usuário ou outros elementos relevantes.
+O menu do NavigationView (drawer_menu.xml) pode ser definido de acordo com as opções de navegação necessárias para o aplicativo ESG.
