@@ -1,0 +1,10 @@
+Conceitos de Design e UX Aplicados:
+
+Uso de cores atraentes e consistentes com a identidade visual do aplicativo ESG.
+Tipografia legível e agradável para os campos de texto e botões.
+Ícones intuitivos para os campos de entrada de nome de usuário e senha.
+Layout centralizado verticalmente na tela, com espaçamento adequado entre os elementos.
+Uso de um estilo personalizado para os TextInputLayout para melhorar a aparência dos campos de entrada.
+Botão de login com estilo personalizado, como bordas arredondadas e cores atraentes.
+Texto do link "Esqueceu a senha?" com cor diferenciada para maior destaque.
+Adição de uma propriedade contentDescription no ImageView para melhorar a acessibilidade.
